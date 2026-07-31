@@ -8,3 +8,5 @@ This repository demonstrates:
 - pushing commits to the remote
 - the difference between git fetch and git pull
 - ignoring files with .gitignore
+
+Line added directly in the GitHub web interface.
